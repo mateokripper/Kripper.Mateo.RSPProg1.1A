@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627303804 source:c:\users\usuario\desktop\rspprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
